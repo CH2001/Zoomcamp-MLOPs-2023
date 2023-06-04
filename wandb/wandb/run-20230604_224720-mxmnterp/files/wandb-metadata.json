@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.4",
+    "heartbeatAt": "2023-06-04T14:47:21.712614",
+    "startedAt": "2023-06-04T14:47:20.753784",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "mlops-zoomcamp-wandb",
+        "--wandb_entity",
+        "chunhanssen",
+        "--data_artifact",
+        "chunhanssen/mlops-zoomcamp-wandb/NYC-Taxi:v0"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\chunh\\Downloads\\Zoomcamp\\Zoomcamp-MLOPs-2023\\wandb\\sweep.py",
+    "codePath": "wandb\\sweep.py",
+    "git": {
+        "remote": "https://github.com/CH2001/Zoomcamp-MLOPs-2023.git",
+        "commit": "4531390094300d981b8fe872f7776793ac377e98"
+    },
+    "email": "chunhanssen@gmail.com",
+    "root": "C:/Users/chunh/Downloads/Zoomcamp/Zoomcamp-MLOPs-2023",
+    "host": "LAPTOP-RV6AD639",
+    "username": "chunh",
+    "executable": "C:\\Users\\chunh\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2419.0,
+        "min": 0.0,
+        "max": 2419.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2419.0,
+            "min": 0.0,
+            "max": 2419.0
+        }
+    ],
+    "disk": {
+        "total": 475.3499183654785,
+        "used": 313.7027359008789
+    },
+    "memory": {
+        "total": 7.697315216064453
+    }
+}

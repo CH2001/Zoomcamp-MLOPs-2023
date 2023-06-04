@@ -1,0 +1,51 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.4",
+    "heartbeatAt": "2023-06-04T13:25:06.970367",
+    "startedAt": "2023-06-04T13:25:05.748463",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "mlops-zoomcamp-wandb",
+        "--wandb_entity",
+        "chunhanssen",
+        "--raw_data_path",
+        "./data",
+        "--dest_path",
+        "./output"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\chunh\\Downloads\\Zoomcamp\\Zoomcamp-MLOPs-2023\\wandb\\preprocess_data.py",
+    "codePath": "wandb\\preprocess_data.py",
+    "git": {
+        "remote": "https://github.com/CH2001/Zoomcamp-MLOPs-2023.git",
+        "commit": "4531390094300d981b8fe872f7776793ac377e98"
+    },
+    "email": "chunhanssen@gmail.com",
+    "root": "C:/Users/chunh/Downloads/Zoomcamp/Zoomcamp-MLOPs-2023",
+    "host": "LAPTOP-RV6AD639",
+    "username": "chunh",
+    "executable": "C:\\Users\\chunh\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2419.0,
+        "min": 0.0,
+        "max": 2419.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2419.0,
+            "min": 0.0,
+            "max": 2419.0
+        }
+    ],
+    "disk": {
+        "total": 475.3499183654785,
+        "used": 313.3231391906738
+    },
+    "memory": {
+        "total": 7.697315216064453
+    }
+}
