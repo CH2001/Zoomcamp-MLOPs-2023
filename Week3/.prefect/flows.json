@@ -1,4 +1,5 @@
 {
   "hw-flow": "orches\\orchestrate.py:hw_flow",
+  "hw3-flow": "orchestrate.py:hw3_flow",
   "main-flow": "orchestrate.py:main_flow"
 }
